@@ -2,5 +2,4 @@
 - 🌱 Currently, I’m diving deeper into advanced control systems, fluid dynamics, and aerodynamics.
 - 💞️ I’m looking to collaborate on aerospace-related projects, MATLAB simulations, and mechanical design challenges.
 - 📫 Feel free to reach out via email ddp8909@rit.edu or connect with me on LinkedIn (linkedin.com/in/dhruv-prajapati1220)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I worked on a MATLAB Lunar Lander project, simulating lunar landing dynamics.
+- Actively seeking Mechanichal Design internships
